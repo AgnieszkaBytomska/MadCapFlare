@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Link
+      Url="Content/Resources/Images/2021-02-27_134621.png" />
+    <Link
+      Url="https://www.libellud.com/dixit-odyssey/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Link
+      Url="Content/Resources/Images/2021-02-27_134621.png" />
+    <Link
+      Url="https://www.libellud.com/dixit-odyssey/?lang=en" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
